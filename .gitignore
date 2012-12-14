@@ -1,0 +1,14 @@
+*.ncb
+*.suo
+*.opensdf
+*.sdf
+*.aps
+ipch/
+VProxy/res/
+VProxy/Debug/
+VProxy/Release/
+VProxy/RC*
+*.user
+*.swp
+*.png
+
